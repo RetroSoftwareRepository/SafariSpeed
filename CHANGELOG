@@ -1,0 +1,8 @@
+Version 1.2.1
+* Decided to keep a log of changes
+* Fixed the "Application" text in the menubar - thanks to Krusty from MacNN for pointing this out!
+* Fixed a typo in the "Page Loading Delay" window - it's "do" not "to"
+* Added a beautiful new icon designed by Shane Smith - Thank You!
+* Application now quits on window close - thanks to MacNN's Adam Betts for pointing this out.
+
+--- END CHANGELOG ---
